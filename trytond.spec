@@ -7,6 +7,7 @@ Group:		Development/Python
 Source0:	http://pypi.python.org/packages/source/t/trytond/%{name}-%{version}.tar.gz
 %py_requires -d
 BuildArch:	noarch
+BuildRequires:  python-setuptools
 
 %description
 The server of the Tryton application platform.
