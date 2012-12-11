@@ -41,3 +41,10 @@ cp -a etc %{buildroot}
 %files -n python-%{name}
 %doc CHANGELOG COPYRIGHT README TODO
 %{py_sitedir}/*
+
+
+%changelog
+* Thu Apr 19 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 2.2.2-1
++ Revision: 792127
+- imported package trytond
+
