@@ -1,7 +1,7 @@
 Name:		trytond
 Summary:	The server of the Tryton application platform
 Version:	2.2.2
-Release:	1
+Release:	2
 License:	GPLv3+
 Group:		Development/Python
 Source0:	http://pypi.python.org/packages/source/t/trytond/%{name}-%{version}.tar.gz
